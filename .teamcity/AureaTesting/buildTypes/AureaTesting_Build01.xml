@@ -13,9 +13,7 @@
         </parameters>
       </runner>
     </build-runners>
-    <vcs-settings>
-      <vcs-entry-ref root-id="AureaTesting_VcsTest01" />
-    </vcs-settings>
+    <vcs-settings />
     <requirements />
     <build-triggers />
     <cleanup />
